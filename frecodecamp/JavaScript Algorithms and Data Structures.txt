@@ -1,0 +1,6 @@
+Basic javascript 1
+
+/// This is my first in-line comment lol
+
+/* and this is also in line
+comment but different */
