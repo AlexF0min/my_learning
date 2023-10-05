@@ -10,3 +10,13 @@ Basic JavaScript 2
 // Declare JavaScript  Variables
 
 var myName;
+
+Basic javaScript 3 
+
+// Assigment opereator
+
+// Setup
+var a;
+
+// Only change code below this line
+a=7;
