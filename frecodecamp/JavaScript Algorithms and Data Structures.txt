@@ -4,3 +4,9 @@ Basic javascript 1
 
 /* and this is also in line
 comment but different */
+
+Basic JavaScript 2
+
+// Declare JavaScript  Variables
+
+var myName;
