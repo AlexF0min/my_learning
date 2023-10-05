@@ -31,3 +31,8 @@ var b;
 // Only change code below this line
 b = a;
 
+Basic JavaScript 5 - Initializing Variables with the Assignment Operator
+
+var a = 9;
+
+
